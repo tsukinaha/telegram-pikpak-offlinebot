@@ -1,4 +1,4 @@
-# telegram-pikpak-bot
+# telegram-pikpak-offlinebot
 
 目前支持离线下载   
 based on pikpakapi   
