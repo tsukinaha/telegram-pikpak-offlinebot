@@ -8,7 +8,7 @@ based on pikpakapi
 2.
 
     pip install python-telegram-bot
-    pip install pikpakapi
+    pip install pikpakapi    
 3.
 
     python main.py
