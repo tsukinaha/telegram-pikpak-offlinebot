@@ -9,6 +9,4 @@ based on pikpakapi
 
     pip install python-telegram-bot
     pip install pikpakapi    
-3.
-
     python main.py
