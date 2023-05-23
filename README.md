@@ -4,8 +4,7 @@
 based on pikpakapi   
 
 ## 开始使用  
-1.修改main.py中的 username password token rooturl     
-2.
+修改main.py中的 username password token rooturl     
 
     pip install python-telegram-bot
     pip install pikpakapi    
